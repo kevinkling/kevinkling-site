@@ -7,3 +7,15 @@
   color: rgb(1, 114, 1);
   text-decoration: none;
 }
+
+@media (max-width: 500px) {
+  .term{
+    font-size: 1em;
+  }
+}
+
+@media (max-width: 360px) {
+  .term{
+    font-size: 0.7em;
+  }
+}
