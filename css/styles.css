@@ -1,0 +1,9 @@
+.term{
+  color: black;
+  font-size: 1.25em;
+}
+
+.term a {
+  color: rgb(1, 114, 1);
+  text-decoration: none;
+}
